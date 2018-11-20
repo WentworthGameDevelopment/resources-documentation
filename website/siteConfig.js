@@ -7,7 +7,7 @@
 
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
-
+require("dotenv").config();
 // List of projects/orgs using your project for the users page.
 const users = [
   {
@@ -24,7 +24,7 @@ const siteConfig = {
   title: "Resource Hub", // Title for your website.
   tagline: "The center for learning about game development",
   url: "https://WentworthGameDevelopment.github.io", // Your website URL
-  baseUrl: "/resources-documentation/", // Base URL for your project */
+  baseUrl: "/resources-documentation", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
