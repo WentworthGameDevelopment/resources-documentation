@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
   title: "Resource Hub", // Title for your website.
   tagline: "The center for learning about game development",
-  url: "https://your-docusaurus-test-site.com", // Your website URL
-  baseUrl: "/", // Base URL for your project */
+  url: "https://WentworthGameDevelopment.github.io", // Your website URL
+  baseUrl: "/resources-documentation/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
   projectName: "Resources Hub",
-  organizationName: "wit-gdc",
+  organizationName: "WentworthGameDevelopment",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
